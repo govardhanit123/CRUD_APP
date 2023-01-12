@@ -1,0 +1,46 @@
+{
+  "Employees": [
+    {
+      "id": 2,
+      "name": "GOVARDHAN REDDY S",
+      "email": "govardhansiddalait@gmail.com",
+      "phone": "09618385962",
+      "active": "true"
+    },
+    {
+      "id": 3,
+      "name": " Govardhan reddy",
+      "email": "govardha@gmail.com",
+      "phone": "9148296931",
+      "active": "true"
+    },
+    {
+      "id": 5,
+      "name": "Kishore kumar",
+      "email": "krkishorereddy@gmail.com",
+      "phone": "7760766835",
+      "active": "true"
+    },
+    {
+      "id": 6,
+      "name": "GOVARDHAN REDDY S",
+      "email": "govardhansiddalait@gmail.com",
+      "phone": "9618385962",
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "Siddala Govardhan reddy",
+      "email": "govardhansiddala143@gmail.com",
+      "phone": "11111333",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Siddala Govardhan reddy",
+      "email": "govardhansiddala143@gmail.com",
+      "phone": "5555555845",
+      "active": true
+    }
+  ]
+}
